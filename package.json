@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "lodash": "^4.17.21"
-  }
+  },
+  "name": "metamorph",
+  "version": "1.0.0",
+  "main": "demo.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitscratz/metamorph-windows.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitscratz/metamorph-windows/issues"
+  },
+  "homepage": "https://github.com/gitscratz/metamorph-windows#readme",
+  "description": ""
 }
