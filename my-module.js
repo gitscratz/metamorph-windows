@@ -1,1 +1,0 @@
-exports.myText = "hello from module text from the my-module.js page you just now created."
